@@ -1,0 +1,86 @@
+body {
+    background-image: url(../images/portfolio3.png);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#name {
+    color: white;
+    text-align: center;
+    padding: 200px;
+}
+
+p {
+    /* margin-right: 10%; */
+    text-align: center;
+}
+
+#aboutMe {
+    color: white;
+    text-align: center;
+    background: black;
+    padding: 160px;
+}
+
+#portfolioPic {
+    float: left;
+    border-radius: 50%;
+    margin-top: 0%;
+    margin-right: auto;
+}
+
+.card-content {
+    background-color: black;
+}
+
+h5 {
+    padding: 100px;
+    text-align: center;
+    color: white;
+}
+
+#projects {
+    text-align: center;
+    color: white;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 45px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.fa-github {
+    background: black;
+    color: white;
+}
+
+.fa-file-text-o {
+    background: darkgray;
+    color: white;
+}
+
+#portfolioInfo {
+    padding: 115px;
+}
+
+
+
+
+
+
+
+
